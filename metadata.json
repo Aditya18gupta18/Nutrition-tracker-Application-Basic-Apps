@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Nutrition Tracker",
+  "description": "An intelligent nutrition tracking application that uses the Gemini API to analyze food descriptions and provide detailed nutritional information. Log your meals in natural language and get instant feedback on your daily intake.",
+  "requestFramePermissions": []
+}
